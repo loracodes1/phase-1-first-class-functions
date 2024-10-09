@@ -5,3 +5,7 @@
  function returnsANamedFunction(){
     return ANamedFunction()
  }
+
+ function returnsAnAnonymousFunction(){
+    return function()
+ }
